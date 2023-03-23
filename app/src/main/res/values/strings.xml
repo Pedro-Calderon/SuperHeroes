@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="hero1">Superman</string>
+    <string name="description1">El hombre indestructible</string>
+    <string name="hero2">Batman</string>
+    <string name="description2">El caballero de la noche</string>
+    <string name="hero3">Flash</string>
+    <string name="description3">"No hay persona en el mundo mas rapido que el "</string>
+    <string name="hero4">Hulk</string>
+    <string name="description4">Hulk aplasta </string>
+    <string name="hero5">Thor</string>
+    <string name="description5">"El dios del trueno "</string>
+    <string name="hero6">El chapulin colorado</string>
+    <string name="description6">Más ágil que una tortuga, más fuerte que un ratón, más noble que una lechuga, su escudo es un corazón... ¡Es El Chapulín Colorado!</string>
+</resources>
